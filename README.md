@@ -31,6 +31,7 @@ design-patterns-java/
     │   └── Main.java
     └── observer/
         └── Main.java
+```
 ---
 
 ## 🧱 Creational Patterns

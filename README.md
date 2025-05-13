@@ -16,21 +16,21 @@ Each pattern is implemented as an **individual, self-contained project** with mi
 design-patterns-java/
 ├── creational/
 │   ├── singleton/
-│   │   └── Main.java
+│   │   └── LoggerModule.java
 │   ├── builder/
-│   │   └── Main.java
+│   │   └── UserModule.java
 │   └── abstract-factory/
-│       └── Main.java
+│       └── UIGenerator.java
 ├── structural/
 │   ├── facade/
-│   │   └── Main.java
+│   │   └── HomeTheaterSystem.java
 │   └── adapter/
-│       └── Main.java
+│       └── MusicPlayer.java
 └── behavioral/
     ├── strategy/
-    │   └── Main.java
+    │   └── NavigatorModule.java
     └── observer/
-        └── Main.java
+        └── WeatherApplication.java
 ```
 ---
 

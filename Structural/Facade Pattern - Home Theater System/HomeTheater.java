@@ -27,6 +27,7 @@ public class HomeTheater {
         light.dim();
         sound.setVolume(10);
         projector.on();
+        dvd.on();
         dvd.play(movie);
     }
 
